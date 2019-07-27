@@ -1,9 +1,10 @@
 # lib-parser
 Tool to parse libcmt.lib &amp; libcmtd.lib (LIBC.LIB &amp; LIBCD.LIB for older version) files to readable files.
+Also collection of x86 & x64 libs from VC\lib folder.
 
-Was used to build csv file with functions for import statistics.
+Was used to build csv file with runtime functions for import statistics and analysis.
 
-Added more libs and some code..
+Added more libs and some code.
 Originally coded by leeeryan.
 
 _Libs available:_
@@ -11,7 +12,7 @@ _Libs available:_
 ![alt text](https://github.com/progressionnetwork/lib-parser/blob/master/dir.png)
 
 
-Example:
+Output example:
  - @_RTC_Check_2_to_1@4
  - @_RTC_Check_4_to_1@4
  - @_RTC_Check_8_to_1@8
