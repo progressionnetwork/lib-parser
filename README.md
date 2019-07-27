@@ -1,5 +1,6 @@
 # lib-parser
 Tool to parse libcmt.lib &amp; libcmtd.lib (LIBC.LIB &amp; LIBCD.LIB for older version) files to readable files.
+Second tool to detect runtime functions in x86 PE files via disasm.
 
 Also collection of x86 & x64 libs from VC\lib folder.
 
