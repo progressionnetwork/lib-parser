@@ -1,10 +1,12 @@
 # lib-parser
 Tool to parse libcmt.lib &amp; libcmtd.lib (LIBC.LIB &amp; LIBCD.LIB for older version) files to readable files.
+
 Also collection of x86 & x64 libs from VC\lib folder.
 
 Was used to build csv file with runtime functions for import statistics and analysis.
 
 Added more libs and some code.
+
 Originally coded by leeeryan.
 
 _Libs available:_
